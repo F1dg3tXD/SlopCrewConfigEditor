@@ -1,6 +1,10 @@
 # SlopCrewConfigEditor
 A simple configuration editor for the SlopCrew BRC Multiplayer mod.
 
+# Reop Moved!!
+This has moved to the primary framework:
+https://github.com/F1dg3tXD/F1dg3t-s-SlopCrew-Mods
+
 ## How to install:
 Install [SlopCrew](https://github.com/SlopCrew/SlopCrew/blob/main/docs/Install%20Guide.md#gogmanual-installs) via manual installation first.
 Ensure the SlopCrew config file is at
